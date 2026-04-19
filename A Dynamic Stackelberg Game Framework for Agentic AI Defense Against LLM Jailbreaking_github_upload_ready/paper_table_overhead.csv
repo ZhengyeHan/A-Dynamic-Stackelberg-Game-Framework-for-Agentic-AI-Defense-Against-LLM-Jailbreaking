@@ -1,5 +1,0 @@
-mode,H,status,target_queries_main,target_queries_simulation,total_target_queries,classifier_calls_main,classifier_calls_simulation,total_classifier_calls,extend_calls_main,extend_calls_simulation,total_extend_calls,note
-prompt_pool_only,0.35,completed,100,0,100,100,0,100,0,0,0,
-rrt_no_defense,0.35,completed,100,0,100,100,0,100,99,0,99,
-risky_memory_only,0.35,completed,99,0,99,99,0,99,99,0,99,
-purple_full,0.35,completed,98,282,380,98,282,380,99,282,381,
