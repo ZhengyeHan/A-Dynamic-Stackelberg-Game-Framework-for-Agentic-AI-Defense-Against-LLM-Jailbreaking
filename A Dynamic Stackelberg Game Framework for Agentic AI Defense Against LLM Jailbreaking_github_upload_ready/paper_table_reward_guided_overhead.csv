@@ -1,0 +1,4 @@
+mode,H,n_runs,target_queries_main_mean,target_queries_simulation_mean,total_target_queries_mean,total_target_queries_std,classifier_calls_main_mean,classifier_calls_simulation_mean,total_classifier_calls_mean,total_classifier_calls_std,total_model_calls_mean,total_model_calls_std,extend_calls_main_mean,extend_calls_simulation_mean,total_extend_calls_mean,total_extend_calls_std,latency_mean_seconds,total_tokens_mean,note
+reward_guided_rrt_no_defense,0.4,3,100,0,100,0,99,0,99,0,199,0,100,0,100,0,,,latency/tokens not logged in the original reward-guided runner
+reward_guided_risky_memory_only,0.4,3,88.67,0,88.67,2.87,87.67,0,87.67,2.87,176.33,5.73,100,0,100,0,,,latency/tokens not logged in the original reward-guided runner
+reward_guided_purple_full,0.4,3,85.67,164,249.67,3.40,84.67,164,248.67,3.40,498.33,6.80,100,164,264,7.87,,,latency/tokens not logged in the original reward-guided runner

@@ -1,0 +1,10 @@
+adjustText
+gensim
+matplotlib
+numpy
+openai
+python-dotenv
+scikit-learn
+scipy
+seaborn
+sentence-transformers
